@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Luiz Felipe 👋</h1>
 
 <p align="center">
-  <strong>Estudante de Engenharia de Software · Desenvolvedor Full Stack</strong><br>
+  <strong>Estudante de Engenharia de Software</strong><br>
   Gosto de tecnologia e de transformar problemas em soluções que as pessoas realmente usam.
 </p>
 
@@ -26,7 +26,7 @@
   <tr>
     <td width="60%">
       <h3>🧠 BrainForms Math</h3>
-      <p>Plataforma de apoio ao ensino de Matemática do Ensino Médio e à preparação para o ENEM: conteúdo alinhado à BNCC, calculadora com passo a passo, 1.300 questões em 13 tópicos, provas reais do ENEM, mini games, dashboard e conquistas.</p>
+      <p>Plataforma de apoio ao ensino de Matemática do Ensino Médio e à preparação para o ENEM: conteúdos alinhados à BNCC, calculadora com passo a passo, 1.300 questões em 13 tópicos, provas reais do ENEM, mini games, dashboard e conquistas.</p>
       <p><strong>Laravel · PHP · MySQL · JavaScript · PHPUnit · Jest · Playwright · GitHub Actions</strong></p>
       <p>
         <a href="https://brainforms.com.br">🌐 Acessar a plataforma</a> ·
