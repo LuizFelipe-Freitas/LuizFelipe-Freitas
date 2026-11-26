@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
 </p>
 
 ## Ferramentas
@@ -65,10 +66,6 @@
 </p>
 
 ## Atividade no GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LuizFelipe-Freitas&locale=pt_BR&background=00000000&border=6A1B9A&ring=8A2BE2&fire=8A2BE2&currStreakNum=8A2BE2&sideNums=8A2BE2&currStreakLabel=8A2BE2&sideLabels=8B949E&dates=8B949E" alt="Sequência de contribuições" width="70%">
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizFelipe-Freitas&bg_color=00000000&color=8B949E&line=8A2BE2&point=6A1B9A&area=true&area_color=8A2BE2&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2030%20dias" alt="Gráfico de contribuições" width="100%">
